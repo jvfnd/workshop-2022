@@ -6,7 +6,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-p{
+.joke, .Facts{
   font-size: 30px;
   margin-bottom: 50px;
 }
