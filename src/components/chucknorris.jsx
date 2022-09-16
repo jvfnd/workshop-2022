@@ -28,7 +28,7 @@ SetFacts(data.value)
         <p className="Facts">
           {facts}
         </p>
-        <button type="button" className="btn" onClick={getFacts}>Get Another Joke</button>
+        <button type="button" className="btn" onClick={getFacts}>Get Another Fact</button>
     </div>
     )
 }
